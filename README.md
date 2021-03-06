@@ -8,7 +8,7 @@ The folder/subfolder limit is 100 due to the API limits. If you need more, open 
 
 Also note that empty folders will be disregarded.
 
-'''
+```
 
 usage: Groups.io-dl [-h] -u USERNAME -p PASSWORD -g GROUP
 
@@ -23,4 +23,4 @@ optional arguments:
   -g GROUP, --group GROUP
                         Group Name
 
-'''
+```
